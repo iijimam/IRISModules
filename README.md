@@ -11,5 +11,5 @@
 [node/intersystems-iris-native](node/intersystems-iris-native) 以下に irisnative モジュール用インストールファイルがプラットフォーム別、ディストリビューション別に用意されています。
 
 ## Java
-[java](./java/)以下に バージョン2022.1.1.374.0以降に含まれるJDBCとXEPのJARファイルが含まれます。
+[java](./java/)以下に バージョン2022.1.1.374.0以降に含まれる1.8用JDBCとXEPのJARファイルが含まれます。
 
